@@ -25,9 +25,18 @@ The healthcare dataset consists of various attributes, including demographic det
    Identify frequently prescribed medications and explore correlations between test results and medical conditions to improve diagnosis and treatment plans.
  
  **Motive for this Visulization**
-The primary motive of these visualizations is to support data-driven decision-making in the healthcare sector. These insights will enable healthcare administrators and stakeholders to:  
+The primary motive of these visualizations is to support data-driven decision-making in the healthcare sector. These insights will enable healthcare administratorsand stakeholders to:  
 - Enhance patient care quality.  
 - Optimize resource allocation and hospital operations.  
 - Improve financial management and strategic planning.  
 - Develop targeted interventions for common medical conditions.  
 By leveraging these insights, hospitals can create a more efficient, patient-centered, and financially sustainable healthcare environment.`
+
+**Questions**
+1. What is the gender and age distribution of patients?
+2. How are patients distributed based on their blood type?
+3. What are the most common medical conditions among patients?
+4. How do admissions vary over time (e.g., monthly or yearly)?
+5. What percentage of patients have insurance, and who are the top insurance providers?
+6. What is the billing distribution, and which 10 hospital generates the highest revenue?
+7. How patients does it vary by admission type?   
