@@ -1,9 +1,9 @@
-`### **Introduction and Objectives of the Visualization**
+ **Introduction and Objectives of the Visualization**
 
-#### **Introduction:**
+ **Introduction:**
 The healthcare dataset consists of various attributes, including demographic details, medical conditions, admission details, and financial data. By leveraging Power BI for visualization, we aim to transform raw data into actionable insights to improve patient care, optimize hospital operations, and enhance financial performance.
 
-#### **Objectives:**
+ **Objectives:**
 
 1. **Understand Patient Demographics**  
    Analyze gender and age distributions to tailor healthcare services according to the population's needs.
